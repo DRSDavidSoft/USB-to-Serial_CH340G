@@ -82,14 +82,14 @@ Pin compatibility was a major and important usability requirement — especially
 >
 > Optionally, connect **CTS** if your target requires it, for example on NodeMCU-based boards such as **ESP8266**, or **ESP32**.
 
-> [!WARNING]  
-> **Always connect the GND pin (ground common reference) first!**
-
 > [!TIP]  
 > 🔁 TX and RX are **crossed** when connecting to microcontrollers.
 >
 > * **TXD (this board)** ➜ **RX (target)**
 > * **RXD (this board)** ➜ **TX (target)**
+
+> [!WARNING]  
+> **Always connect the GND pin (ground common reference) first!**
 
 ## ⚡️ Power Notes
 
