@@ -4,6 +4,8 @@ A simple and compact **USB-to-Serial breakout board** based on the **CH340G** ch
 
 Designed as an alternative to typical Chinese modules, this version exposes all essential signal lines like `DTR`, and adds user-friendly improvements like LEDs and better header layout.
 
+[📥 Download Now](https://github.com/DRSDavidSoft/USB-to-Serial_CH340G/archive/refs/heads/main.zip)
+
 I created this board because I was dissatisfied with the quality and design of off-the-shelf modules — especially those that didn't break out essential pins like **DTR**, which is required for automatic programming/flashing.
 
 * Many modules **omit DTR**, making Arduino programming frustrating  
@@ -28,7 +30,7 @@ I created this board because I was dissatisfied with the quality and design of o
 
 This repository contains:
 
-* 🧩 `*.PrjPCB` – Altium Designer project file
+* 🧩 `*.PrjPcb` – Altium Designer project file
 * 📐 `*.SchDoc` – Schematic design
 * 🛠️ `*.PcbDoc` – PCB layout
 
