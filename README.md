@@ -142,6 +142,8 @@ Connect:
 
 Pull requests and suggestions are welcome! Feel free to fork, tweak, and improve this board for your own needs.
 
+See issues? [Report them here.](https://github.com/DRSDavidSoft/USB-to-Serial_CH340G/issues)
+
 ## 📜 License
 
 This project is open-source hardware! See [LICENSE](LICENSE) for details.
