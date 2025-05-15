@@ -1,0 +1,31 @@
+# Treat Altium Designer files as binary (no diff/merge)
+*.PcbDoc binary
+*.SchDoc binary
+*.PrjPcb text
+*.OutJob binary
+*.SchLib binary
+*.PcbLib binary
+
+# Images as binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.svg text
+*.md text
+
+# Markdown and text files as text, normalize to LF
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+
+# Scripts or code files (if any)
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# Project file for Altium
+*.PrjPcb text eol=crlf
+
+# Ignore .DS_Store (macOS), Thumbs.db (Windows), etc. in .gitignore
+
