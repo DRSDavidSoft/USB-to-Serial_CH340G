@@ -1,0 +1,56 @@
+# Altium Designer project files and build artifacts
+
+# Backup and recovery files
+*.~*             # Temporary backup files
+*.bak
+*.tmp
+*.swp
+*.log
+
+# Compiled output
+*.OutJob
+*.Rep
+*.html
+*.pdf
+*.zip
+*.7z
+
+# Simulation and generated data
+Simulation/
+__Previews/
+History/
+Project Logs/
+*.Dat
+*.PrjPCBStructure
+
+# User-specific and machine-specific settings
+*.PCBCache
+
+# Output job, temporary, and generated files
+*.out
+*.mch
+*.smb
+*.drc
+*.ers
+*.csv
+*.xls
+*.xlsx
+*.xml
+
+# CAM and manufacturing output
+*.gbr
+*.xln
+*.drl
+*.rpt
+*.ipcd356
+
+# System folders
+__Previews*/
+History*/
+Project Logs*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
