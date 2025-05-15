@@ -1,4 +1,4 @@
-# 🔌 USB-to-Serial CH340G
+# 🔌 USB-to-Serial CH340G <img src="Photos/CH340G_Module.webp" align="right" width="128" height="128">
 
 A simple and compact **USB-to-Serial breakout board** based on the **CH340G** chip.  This repository contains the design files (`SchDoc`, `PcbDoc`, `PrjPCB`) for a minimal module that is pin-compatible for programming boards like the **Arduino Pro Mini** — and breaks out all essential signal pins, including those often missing from typical Chinese clones.
 
