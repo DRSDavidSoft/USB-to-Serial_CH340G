@@ -21,9 +21,9 @@ I created this board because I was dissatisfied with the quality and design of o
 -  **Open-source hardware** ❤️
 
 > [!WARNING]  
-> **Voltage Support:**
+> ⚠️ **Voltage Support:**
 > This board currently supports **5V only**.  
-> ⚠️ Do **not** use it with 3.3V-only targets without level shifting!
+> Do **not** use it with 3.3V-only targets without level shifting!
 
 ## 📦 Project Contents
 
